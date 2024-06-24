@@ -1,0 +1,12 @@
+# MobileCharger specifications
+"capacity" : 216000
+"threshold" : 3500
+"velocity" : 5
+"pm" : 1
+"charging_range" : 300
+"alpha" : 4500
+"beta" : 30
+"epsilon" : 0.0000000001
+"e": 1
+"eps_double_q": 0.01
+
